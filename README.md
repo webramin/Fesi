@@ -105,8 +105,8 @@
 ### مرحله 1: کلون کردن مخزن
 
 ```bash
-git clone https://github.com/yourusername/face-clustering-app.git
-cd face-clustering-app
+git clone https://github.com/webramin/Fesi.git
+cd Fesi
 ```
 
 مرحله 2: ایجاد محیط مجازی (توصیه می‌شود)
